@@ -1,0 +1,20 @@
+{
+  "agency_name": "Bokovets Translation Agency",
+  "owner_label": "Власник:",
+  "owner_name": "Богдана Боковець",
+  "about_title": "Про нас",
+  "about_text": "Ми надаємо якісні та професійні послуги перекладу для клієнтів з усього світу.",
+  "industries_title": "Галузі перекладу",
+  "ind_business": "Бізнес та фінанси",
+  "ind_edu": "Освіта та e-learning",
+  "ind_tech": "Технології та IT",
+  "rates_title": "Наші тарифи",
+  "rate_standard": "Стандарт — 0.05$/слово",
+  "rate_pro": "Експерт — 0.08$/слово",
+  "lang_pair_title": "Оберіть мовну пару:",
+  "pair_1": "Українська - Англійська",
+  "pair_2": "Українська - Французька",
+  "pair_3": "Українська - Німецька",
+  "btn_order": "Замовити переклад",
+  "btn_lang": "Змінити мову / Change Language"
+}
