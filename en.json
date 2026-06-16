@@ -1,0 +1,20 @@
+{
+  "agency_name": "Bokovets Translation Agency",
+  "owner_label": "Holder:",
+  "owner_name": "Bohdana Bokovets",
+  "about_title": "Learn About Us",
+  "about_text": "We provide high-quality, professional translation services to clients around the world.",
+  "industries_title": "Translation industries",
+  "ind_business": "Business and Finance",
+  "ind_edu": "Education and e-learning",
+  "ind_tech": "IT & Technology",
+  "rates_title": "Pricing",
+  "rate_standard": "Standard — $0.05/word",
+  "rate_pro": "Expert — $0.08/word",
+  "lang_pair_title": "Select a language pair:",
+  "pair_1": "Ukrainian - English",
+  "pair_2": "Ukrainian - French",
+  "pair_3": "Ukrainian - German",
+  "btn_order": "Request a translation",
+  "btn_lang": "Змінити мову / Change Language"
+}
